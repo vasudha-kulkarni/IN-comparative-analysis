@@ -1,2 +1,0 @@
-FileName	Syll #	Syll Label	 Syll Onset (ms)	 Syll Offset (ms)	 Syll Duration (sec)	 Mean Frequency (Hz)	 Entropy	Log Amplitude (dB)	Pitch Goodness	FrequencyModulation	AmplitudeModulation	EntropyVariance
-20150625_M11_isolated_as_audience_00.wav	1	j	45.3515	90.2268	
